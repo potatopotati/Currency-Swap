@@ -1,0 +1,76 @@
+.App {
+  text-align: center;
+  background-color: #232946;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+
+.dropdown-menu {
+  max-height: 200px;
+  overflow-y: scroll;
+}
+
+.content {
+  width: 90%;
+}
+
+input,
+.history-btn {
+  border: none;
+  outline: none;
+}
+
+html {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: #232946;
+}
+
+.navbar {
+  background-color: #232946
+}
+
+.content-form {
+  background-color: #b8c1ec
+}
+
+.content-form h1 {
+  color: #121629;
+}
+
+.sendsection {
+  background-color: #232946;
+  color: white;
+}
+
+.sendsection input {
+  background-color: #232946;
+  color: white;
+}
+
+.receivesection input {
+  color: white;
+}
+
+submitbutton button:hover {
+  background-color: #fffffe;
+}
+
+.history button {
+  color: #232946;
+}
+
+.history button:hover {
+  color: #334ac2;
+}
+
+.namehistory {
+  color: #232946;
+
+}
